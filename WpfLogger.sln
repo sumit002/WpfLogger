@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLogger", "WpfLogger\WpfLogger.csproj", "{35E636A5-5D95-42F6-9606-EEC0361C8633}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WpfLoggerSetup", "WpfLoggerSetup\WpfLoggerSetup.vdproj", "{64132E67-4A7E-4A06-9A2F-F1C96B805669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E636A5-5D95-42F6-9606-EEC0361C8633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E636A5-5D95-42F6-9606-EEC0361C8633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E636A5-5D95-42F6-9606-EEC0361C8633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E636A5-5D95-42F6-9606-EEC0361C8633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64132E67-4A7E-4A06-9A2F-F1C96B805669}.Debug|Any CPU.ActiveCfg = Debug
+		{64132E67-4A7E-4A06-9A2F-F1C96B805669}.Debug|Any CPU.Build.0 = Debug
+		{64132E67-4A7E-4A06-9A2F-F1C96B805669}.Release|Any CPU.ActiveCfg = Release
+		{64132E67-4A7E-4A06-9A2F-F1C96B805669}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A34DE60C-08B8-4E75-A864-05925BB052FD}
+	EndGlobalSection
+EndGlobal
